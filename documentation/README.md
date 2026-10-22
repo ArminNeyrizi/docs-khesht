@@ -5,26 +5,37 @@ description: >-
 icon: hand-wave
 ---
 
-# Welcome
+# نظام مدیریت یکپارچه خشت
 
-Welcome to the platform. These docs cover everything from your first project to advanced workflows — pick a starting point below or ask the Assistant to jump straight to what you need.
+> **وضعیت: پیش‌نویس برای بازبینی مدیریت**\
+> این مجموعه چارچوب اجرایی اولیه است؛ به‌تنهایی اثبات‌کننده انطباق با استانداردهای ISO یا اخذ گواهینامه نیست.
 
-<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
+## هدف سامانه
 
-<button type="button" class="button secondary" data-action="ask" data-query="How do I deploy my first project" data-icon="rocket-launch">Deploy your first project</button><button type="button" class="button secondary" data-action="ask" data-query="How do I set up a custom domain" data-icon="globe">Set up a custom domain</button><button type="button" class="button secondary" data-action="ask" data-query="How do I invite my team" data-icon="user-group">Invite your team</button>
+اتصال راهبرد، حاکمیت، فرایندهای عملیاتی، کیفیت، مدیریت ریسک، شاخص‌های عملکرد و شواهد اجرایی در یک نظام واحد.
 
-***
+**چرخه مدیریت:** تعیین الزامات ← اجرا ← ثبت شواهد ← ارزیابی ← اصلاح و بهبود
 
-{% hint style="success" icon="sparkles" %}
-**New: scheduled deploys and team-level audit logs.** Schedule deploys for any future date and review every action taken in your workspace.
+## اسناد اصلی
 
-<a href="https://app.gitbook.com/s/1MG4P06ouEtMCmnGe6BT/" class="button secondary">See what's new</a>
-{% endhint %}
+* [چارچوب نظام مدیریت یکپارچه](charchwb-nzam-mdyryt-ykparchh.md)
+* [حاکمیت و حدود اختیارات](hakmyt-w-hdwd-akhtyarat.md)
+* [معماری فرایندها](mamary-frayndha.md)
+* [کنترل مستندات و سوابق](kntrl-mstndat-w-swabq.md)
+* [مدیریت عملکرد و شاخص‌های کلیدی](mdyryt-amlkrd-w-shakhs-hay-klydy.md)
+* [ریسک، ممیزی و اقدام اصلاحی](rysk-mmyzy-w-aqdam-aslahy.md)
+* [ارائه خدمات مهندسی](araeh-khdmat-mhndsy.md)
 
-## Where to start
+## اصول اجرایی
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4>Getting started</h4></td><td>Set up your account and ship your first project in minutes.</td><td><a href="getting-started/getting-started.md">getting-started.md</a></td></tr><tr><td><h4><i class="fa-book" style="color:$primary;">:book:</i></h4></td><td><h4>Core concepts</h4></td><td>Understand workspaces, projects, and how permissions work.</td><td><a href="core-concepts/core-concepts.md">core-concepts.md</a></td></tr><tr><td><h4><i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i></h4></td><td><h4>Guides</h4></td><td>Walkthroughs for common tasks like custom domains and automations.</td><td><a href="guides/guides.md">guides.md</a></td></tr><tr><td><h4><i class="fa-book-open" style="color:$primary;">:book-open:</i></h4></td><td><h4>Reference</h4></td><td>Detailed configuration options, limits, and terminology.</td><td><a href="reference/reference.md">reference.md</a></td></tr></tbody></table>
+1. برای هر فرایند یک مالک پاسخ‌گو تعیین شود.
+2. تصمیم‌ها و فعالیت‌های مهم با شواهد قابل ردیابی پشتیبانی شوند.
+3. شدت کنترل متناسب با ریسک و پیامد خطا باشد.
+4. مستندات فقط در جایی ایجاد شوند که ابهام، ریسک یا نیاز به تکرارپذیری را کاهش دهند.
+5. هیچ سندی پیش از تصویب مرجع مجاز، دستورالعمل مصوب تلقی نشود.
 
-## Popular tasks
+## دامنه اولیه
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>For builders</h4></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td><td><a href="getting-started/your-first-project.md">your-first-project.md</a></td><td><a href="guides/custom-domains.md">custom-domains.md</a></td></tr><tr><td><h4>For admins</h4></td><td><a href="core-concepts/permissions.md">permissions.md</a></td><td><a href="reference/configuration.md">configuration.md</a></td><td><a href="core-concepts/workspaces-and-projects.md">workspaces-and-projects.md</a></td></tr><tr><td><h4>For developers</h4></td><td><a href="guides/automations.md">automations.md</a></td><td><a href="reference/glossary.md">glossary.md</a></td><td><a href="reference/configuration.md">configuration.md</a></td></tr></tbody></table>
+حاکمیت هلدینگ، خدمات مهندسی و تحویل پروژه، کنترل‌های مشترک مدیریتی، آکادمی خشت و فعالیت‌های تحقیق‌وتوسعه و سامانه‌های دیجیتال در موارد مرتبط. مرز شخصیت‌های حقوقی، مکان‌ها، فعالیت‌ها و دامنه نهایی باید به تأیید مدیریت برسد.
+
+مدیرعامل پاسخ‌گوی اثربخشی نظام است؛ مالکان فرایند مسئول نتایج و کنترل‌های فرایند خود هستند؛ مالک سند صحت و به‌روزبودن سند را نگه می‌دارد؛ و مالک داده کیفیت و قابلیت ردیابی شاخص‌ها را تضمین می‌کند.

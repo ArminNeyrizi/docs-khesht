@@ -1,27 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
-
-## Getting Started
-
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
-
-## Core concepts
-
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
-
-## Guides
-
-* [Guides](guides/guides.md)
-* [Custom domains](guides/custom-domains.md)
-* [Automations](guides/automations.md)
-
-## Reference
-
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
+* [نظام مدیریت یکپارچه خشت](README.md)
+* [چارچوب نظام مدیریت یکپارچه](charchwb-nzam-mdyryt-ykparchh.md)
+* [حاکمیت و حدود اختیارات](hakmyt-w-hdwd-akhtyarat.md)
+* [معماری فرایندها](mamary-frayndha.md)
+* [کنترل مستندات و سوابق](kntrl-mstndat-w-swabq.md)
+* [مدیریت عملکرد و شاخص‌های کلیدی](mdyryt-amlkrd-w-shakhs-hay-klydy.md)
+* [ریسک، ممیزی و اقدام اصلاحی](rysk-mmyzy-w-aqdam-aslahy.md)
+* [ارائه خدمات مهندسی](araeh-khdmat-mhndsy.md)
