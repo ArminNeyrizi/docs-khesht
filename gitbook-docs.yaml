@@ -17,6 +17,7 @@ site:
           default: true
           content:
             directory: ./home
+            language: ar
     - type: section
       key: section-2
       title: نظام مدیریت یکپارچه
@@ -31,6 +32,7 @@ site:
           default: true
           content:
             directory: ./documentation
+            language: ar
     - type: section
       key: section-3
       title: مرجع فنی
@@ -46,6 +48,7 @@ site:
           default: true
           content:
             directory: ./api-reference
+            language: ar
     - type: section
       key: section-4
       title: تاریخچه تغییرات
@@ -61,6 +64,7 @@ site:
           default: true
           content:
             directory: ./changelog
+            language: ar
     - type: section
       key: section-5
       title: راهنمای کاربران
@@ -76,3 +80,4 @@ site:
           default: true
           content:
             directory: ./help-center
+            language: ar
