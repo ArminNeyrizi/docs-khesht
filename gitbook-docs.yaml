@@ -50,20 +50,3 @@ site:
           content:
             directory: ./api-reference
             language: ar
-    - type: section
-      key: section-4
-      title: تاریخچه تغییرات
-      path: changelog
-      description: بخش نمونه قدیمی؛ از ناوبری عمومی پنهان می‌شود
-      icon: clock-rotate-left
-      condition: "false"
-      children:
-        - type: space
-          key: space-4
-          title: تاریخچه تغییرات
-          path: changelog
-          default: true
-          hidden: true
-          content:
-            directory: ./changelog
-            language: ar
