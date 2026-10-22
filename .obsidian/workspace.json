@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/rysk-mmyzy-w-aqdam-aslahy.md",
+                "file": "documentation/araeh-khdmat-mhndsy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rysk-mmyzy-w-aqdam-aslahy"
+              "title": "araeh-khdmat-mhndsy"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "2d250673fa101941",
   "lastOpenFiles": [
+    "documentation/rysk-mmyzy-w-aqdam-aslahy.md",
     "documentation/SUMMARY.md",
     "home/README.md",
     "home/landing-page/README.md",
