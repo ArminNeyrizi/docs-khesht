@@ -1,39 +1,22 @@
-# Process architecture
+# معماری فرایندها
 
-## Process model
+## طبقه‌بندی
+- **مدیریتی:** راهبرد، سبد فعالیت‌ها، بازنگری مدیریت، ریسک و بهبود.
+- **اصلی:** جذب مشتری، تعریف خدمت، قرارداد، تحویل مهندسی، کنترل کیفیت و بازخورد مشتری.
+- **پشتیبان:** مالی، منابع انسانی، تدارکات، فناوری اطلاعات و کنترل مستندات.
 
-Use three process classes:
+واحد سازمانی لزوماً یک فرایند نیست؛ فرایند فعالیت‌های مرتبطی است که ورودی را به خروجی مورد انتظار تبدیل می‌کند.
 
-- **Management:** strategy, portfolio governance, management review, risk, compliance, and improvement.
-- **Core:** customer acquisition, service definition, contracting, engineering and project delivery, quality verification, handover, and customer feedback.
-- **Support:** finance, HR, procurement, IT, document control, facilities, and competence management.
+## زنجیره ارزش
+**فرصت ← سرنخ ← احراز صلاحیت ← امکان‌سنجی ← تعریف دامنه و قیمت ← پیشنهاد ← بازبینی قرارداد ← تخصیص منابع ← اجرا ← کنترل کیفیت ← تحویل ← صورتحساب و وصول ← اختتام**
 
-A department is not automatically a process. A process is a linked set of activities that converts defined inputs into an intended output.
+در نقاط پرریسک، پیش از ادامه کار دروازه تصمیم تعریف شود.
 
-## Initial end-to-end value chain
+## شناسنامه فرایند
+هر فرایند باید شناسه، هدف، محرک، ورودی، خروجی، مالک، مشارکت‌کنندگان، توالی فعالیت، رابط‌ها، کنترل‌ها، ریسک‌ها، شاخص‌ها، سوابق و محرک بازبینی داشته باشد.
 
-**Opportunity → Lead → Qualification → Needs and feasibility → Scope, schedule, cost and risk → Proposal → Contract review → Resource allocation → Delivery → Quality verification → Handover → Invoicing and collection → Closure and lessons learned**
+## سطوح مستندات
+۰. نقشه سامانه؛ ۱. شناسنامه فرایند؛ ۲. روش اجرایی؛ ۳. دستورکار یا چک‌لیست؛ ۴. سابقه و شاهد. همه فرایندها به همه سطوح نیاز ندارند؛ حداقل مستندات قابل اتکا انتخاب شود.
 
-Use control gates where proceeding without review could create material financial, technical, legal, safety, or reputational exposure.
-
-## Process register
-
-Every process needs a unique ID, name, class, purpose, output, trigger, inputs, owner, participants, sequence, interfaces, controls, decision gates, risks, KPIs, records, related documents, and review triggers.
-
-## Documentation levels
-
-- **Level 0 — System map:** how process groups interact.
-- **Level 1 — Process profile:** purpose, owner, boundaries, inputs, outputs, risks, and measures.
-- **Level 2 — Procedure:** responsibilities and sequence for repeatable work.
-- **Level 3 — Work instruction / checklist:** task-specific steps or verification points where needed.
-- **Level 4 — Record / evidence:** completed forms, approvals, inspection results, and reports.
-
-Not every process needs all levels. Use the least documentation that reliably controls the work.
-
-## Prioritization
-
-Prioritize by consequence of failure, legal or safety exposure, revenue and cash impact, frequency, customer impact, and current instability. Record the scoring method and decision. Start with contract review, feasibility, scope and change control, delivery planning, quality verification, handover, invoicing and collection, and KPI data production.
-
-## Process performance
-
-Each owner reviews whether outputs and controls meet requirements. A KPI is useful only when formula, unit, population, data source, owner, frequency, and interpretation are defined.
+## اولویت‌بندی و سنجش
+اولویت را بر اساس پیامد شکست، ریسک قانونی و ایمنی، اثر بر درآمد و نقدینگی، فراوانی، اثر مشتری و بی‌ثباتی تعیین کنید. شاخص بدون فرمول، واحد، جامعه سنجش، منبع داده، مالک و تناوب برای تصمیم‌گیری قابل اتکا نیست.
