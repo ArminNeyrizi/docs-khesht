@@ -1,45 +1,18 @@
-# Risk, audit, and corrective action
+# ریسک، ممیزی و اقدام اصلاحی
 
-## Purpose
+## دفتر ریسک
+هر ریسک باید شناسه، هدف یا فرایند مرتبط، علت، رویداد نامطمئن، پیامد، کنترل موجود و شاهد، مقیاس احتمال و اثر، مالک، روش برخورد، اقدام‌ها، مسئول، موعد، آستانه ارجاع و وضعیت داشته باشد. مقیاس امتیازدهی و معیار پذیرش باید توسط مدیریت تصویب شوند.
 
-Identify conditions that could prevent intended results, evaluate controls, respond to failures, and verify whether corrective actions work. Risk management should be embedded in planning and delivery, not maintained only as an annual spreadsheet.
+## کنترل‌های عملیاتی
+ریسک‌های متناسب با فعالیت، از جمله کفایت فنی، هماهنگی طراحی، شرایط کارگاه، ایمنی، محیط‌زیست، صلاحیت پیمانکار، زمان، هزینه، تعهد قراردادی، امنیت داده و کیفیت خروجی ارزیابی شوند. این سند جایگزین طرح ایمنی اختصاصی، بازبینی فنی یا بازرسی قانونی نیست.
 
-## Risk register
+## عدم انطباق و اقدام اصلاحی
+۱. مسئله و الزام نقض‌شده ثبت شود. ۲. کار یا خروجی متأثر مهار شود. ۳. اثرات ارزیابی شوند. ۴. خطای مستقیم اصلاح شود. ۵. علت ریشه‌ای متناسب با اهمیت بررسی شود. ۶. اقدام، مسئول و موعد تعیین شود. ۷. اجرا راستی‌آزمایی شود. ۸. اثربخشی بررسی شود. ۹. فقط با شواهد کافی بسته شود.
 
-Each risk record should include a unique ID; affected objective or process; cause, uncertain event, and consequence; existing controls and evidence; likelihood and impact scales; inherent and residual rating where used; risk owner; treatment; actions, owners, due dates and resources; escalation threshold; review date; and status.
+## ممیزی
+برنامه ممیزی بر اساس ریسک، اهمیت فرایند، یافته‌های قبلی، تغییر، حادثه و عملکرد تنظیم شود. دامنه، معیار، ممیز، زمان، نمونه و دسترسی ثبت شود. ممیز باید بی‌طرف باشد و تا حد امکان فعالیت خود را ممیزی نکند.
 
-Leadership must approve scoring scales and acceptance criteria. A numeric score without defined anchors and decision rules is not a reliable assessment.
+گزارش ممیزی باید شواهد، یافته، اثر، مسئول، موعد پاسخ و پیگیری را مشخص کند. چک‌لیست به‌تنهایی اثربخشی سامانه را اثبات نمی‌کند.
 
-## Operational controls
-
-For engineering and construction-related work, assess risks appropriate to the activity, including technical adequacy, design coordination, site conditions, occupational safety, environmental impact, subcontractor competence, schedule, cost, contractual commitments, data security, and deliverable quality.
-
-Applicable legal duties, client requirements, and technical standards must be identified by competent personnel. This document does not replace project-specific safety plans, technical reviews, or statutory inspections.
-
-## Nonconformity and corrective action
-
-A nonconformity is a failure to meet a specified requirement, such as a contract, approved design, procedure, law, acceptance criterion, or IMS rule.
-
-1. Record the issue and the requirement not met.
-2. Contain the problem and control affected work or outputs.
-3. Assess safety, customer, legal, cost, schedule, and downstream impact.
-4. Correct the immediate issue where possible.
-5. Determine the cause proportionately; do not stop at blaming an individual.
-6. Define actions that address the cause and assign owners and due dates.
-7. Verify implementation.
-8. Check effectiveness after a suitable period or sample of subsequent work.
-9. Close only when evidence supports closure; otherwise reopen or escalate.
-
-## Audit program
-
-An audit is a planned, evidence-based evaluation against defined criteria. Plan audits based on risk, process importance, prior findings, change, incidents, and performance. Each plan identifies scope, criteria, auditor, timing, sample, and access needs. Auditors must be objective and, where practicable, independent of the activity being audited.
-
-Each report records evidence sampled, finding, impact, owner, response date, and follow-up. A checklist alone does not prove system effectiveness.
-
-## Corrective-action record
-
-Minimum fields: ID and date; source; requirement; description and evidence; containment and correction; cause analysis; actions, owners and due dates; implementation verification; effectiveness check; closure authority and date.
-
-## Escalation
-
-Escalate immediately where there is credible risk to life or safety, a potential legal breach, suspected fraud, significant customer impact, material data compromise, or a failure that could invalidate a critical engineering deliverable. Apply emergency and statutory procedures first; documentation must not delay protective action.
+## تشدید فوری
+خطر برای جان یا ایمنی، احتمال نقض قانون، ظن تقلب، اثر جدی بر مشتری، افشای داده یا نقص مؤثر بر اعتبار خروجی مهندسی باید فوراً ارجاع شود. اقدام حفاظتی بر مستندسازی مقدم است.
