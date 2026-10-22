@@ -17,7 +17,7 @@ site:
           default: true
           content:
             directory: ./home
-            language: ar
+            language: en
     - type: section
       key: section-2
       title: نظام مدیریت یکپارچه
