@@ -33,20 +33,3 @@ site:
           content:
             directory: ./documentation
             language: ar
-    - type: section
-      key: section-3
-      title: مرجع فنی
-      path: api-reference
-      description: بخش نمونه قدیمی؛ از ناوبری عمومی پنهان می‌شود
-      icon: terminal
-      condition: "false"
-      children:
-        - type: space
-          key: space-3
-          title: مرجع فنی
-          path: api-reference
-          default: true
-          hidden: true
-          content:
-            directory: ./api-reference
-            language: ar
