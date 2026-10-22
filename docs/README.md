@@ -6,13 +6,13 @@
 **الزام → مسئول → اجرا → ثبت شاهد → ارزیابی → اصلاح و بهبود**
 
 ## اسناد
-1. [چارچوب نظام مدیریت یکپارچه](./ims-framework.md)
-2. [حاکمیت و حدود اختیارات](./governance-and-authority.md)
-3. [معماری فرایندها](./process-architecture.md)
-4. [کنترل مستندات و سوابق](./document-and-record-control.md)
-5. [مدیریت عملکرد و شاخص‌های کلیدی](./performance-and-kpi-management.md)
-6. [ریسک، ممیزی و اقدام اصلاحی](./risk-audit-and-corrective-action.md)
-7. [ارائه خدمات مهندسی](./engineering-service-delivery.md)
+1. [چارچوب نظام مدیریت یکپارچه](ims-framework.md)
+2. [حاکمیت و حدود اختیارات](governance-and-authority.md)
+3. [معماری فرایندها](process-architecture.md)
+4. [کنترل مستندات و سوابق](document-and-record-control.md)
+5. [مدیریت عملکرد و شاخص‌های کلیدی](performance-and-kpi-management.md)
+6. [ریسک، ممیزی و اقدام اصلاحی](risk-audit-and-corrective-action.md)
+7. [ارائه خدمات مهندسی](engineering-service-delivery.md)
 
 ## دامنه اولیه
 حاکمیت هلدینگ، خدمات مهندسی و تحویل پروژه، کنترل‌های مشترک مدیریتی، آکادمی خشت و فعالیت‌های تحقیق‌وتوسعه و سامانه‌های دیجیتال در موارد مرتبط. مرز شرکت‌ها، مکان‌ها، فعالیت‌ها و دامنه نهایی باید به تأیید مدیریت برسد.

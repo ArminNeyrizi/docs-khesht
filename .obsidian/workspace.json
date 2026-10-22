@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/araeh-khdmat-mhndsy.md",
+                "file": "plans/E33 - Armin/1405-08-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "araeh-khdmat-mhndsy"
+              "title": "1405-08-02"
             }
           }
         ]
@@ -185,11 +185,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d250673fa101941",
+  "active": "2d2186c8639544d4",
   "lastOpenFiles": [
+    "plans/E33 - Armin/1405-08-02.md",
+    "Untitled.md",
+    "docs/document-and-record-control.md",
+    "docs/engineering-service-delivery.md",
+    "docs/risk-audit-and-corrective-action.md",
+    "docs/performance-and-kpi-management.md",
+    "plans/E33 - Armin",
+    "docs/process-architecture.md",
+    "plans",
+    "docs/process-architecture.pdf",
+    "home/README.md",
+    "documentation/araeh-khdmat-mhndsy.md",
     "documentation/rysk-mmyzy-w-aqdam-aslahy.md",
     "documentation/SUMMARY.md",
-    "home/README.md",
     "home/landing-page/README.md",
     "home/SUMMARY.md",
     "documentation/mamary-frayndha.md"
