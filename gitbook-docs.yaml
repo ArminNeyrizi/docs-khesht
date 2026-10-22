@@ -4,66 +4,74 @@ site:
   structure:
     - type: section
       key: section-1
-      title: Home
+      title: خانه IMS
       path: home
+      description: درگاه اصلی نظام مدیریت یکپارچه خشت
       icon: house
       default: true
       children:
         - type: space
           key: space-1
-          title: Home
+          title: خانه IMS
           path: home
           default: true
           content:
             directory: ./home
     - type: section
       key: section-2
-      title: Documentation
+      title: نظام مدیریت یکپارچه
       path: documentation
-      icon: book-blank
+      description: چارچوب، حاکمیت، فرایندها، شاخص‌ها، ریسک و خدمات مهندسی
+      icon: sitemap
       children:
         - type: space
           key: space-2
-          title: Documentation
+          title: نظام مدیریت یکپارچه
           path: documentation
           default: true
           content:
             directory: ./documentation
     - type: section
       key: section-3
-      title: API Reference
+      title: مرجع فنی
       path: api-reference
+      description: بخش نمونه قدیمی؛ از ناوبری عمومی پنهان می‌شود
       icon: terminal
+      condition: "false"
       children:
         - type: space
           key: space-3
-          title: API Reference
+          title: مرجع فنی
           path: api-reference
           default: true
           content:
             directory: ./api-reference
     - type: section
       key: section-4
-      title: Changelog
+      title: تاریخچه تغییرات
       path: changelog
+      description: بخش نمونه قدیمی؛ از ناوبری عمومی پنهان می‌شود
       icon: clock-rotate-left
+      condition: "false"
       children:
         - type: space
           key: space-4
-          title: Changelog
+          title: تاریخچه تغییرات
           path: changelog
           default: true
           content:
             directory: ./changelog
     - type: section
       key: section-5
-      title: Help Center
+      title: راهنمای کاربران
       path: help-center
+      description: بخش نمونه قدیمی؛ از ناوبری عمومی پنهان می‌شود
       icon: life-ring
+      condition: "false"
       children:
         - type: space
           key: space-5
-          title: Help Center
+          title: راهنمای کاربران
           path: help-center
           default: true
           content:
