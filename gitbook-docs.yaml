@@ -46,6 +46,7 @@ site:
           title: مرجع فنی
           path: api-reference
           default: true
+          hidden: true
           content:
             directory: ./api-reference
             language: ar
@@ -62,6 +63,7 @@ site:
           title: تاریخچه تغییرات
           path: changelog
           default: true
+          hidden: true
           content:
             directory: ./changelog
             language: ar
@@ -78,6 +80,7 @@ site:
           title: راهنمای کاربران
           path: help-center
           default: true
+          hidden: true
           content:
             directory: ./help-center
             language: ar
