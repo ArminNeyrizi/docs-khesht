@@ -67,20 +67,3 @@ site:
           content:
             directory: ./changelog
             language: ar
-    - type: section
-      key: section-5
-      title: راهنمای کاربران
-      path: help-center
-      description: بخش نمونه قدیمی؛ از ناوبری عمومی پنهان می‌شود
-      icon: life-ring
-      condition: "false"
-      children:
-        - type: space
-          key: space-5
-          title: راهنمای کاربران
-          path: help-center
-          default: true
-          hidden: true
-          content:
-            directory: ./help-center
-            language: ar
